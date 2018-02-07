@@ -1,0 +1,12 @@
+[submodule "themes/hpstr"]
+	path = themes/hpstr
+	url = https://github.com/dldx/hpstr-hugo-theme.git
+[submodule "themes/Mainroad"]
+	path = themes/Mainroad
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "themes/mainline"]
+	path = themes/mainline
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/Mainroad.git
